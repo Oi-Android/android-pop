@@ -14,7 +14,8 @@
           fetch="https://github.com/TeamBliss-LP/"
           review="review.blissroms.com" />
           
-  
+  <remote name="Oi-Android"
+          fetch="https://github.com/Oi-Android/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
