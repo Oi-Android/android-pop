@@ -41,7 +41,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="TeamBliss-LP/android" remote="github" revision="lp5.1" />
+  <project path="android" name="Oi-Android/android-pop" remote="Oi-Android" revision="lp5.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
@@ -633,7 +633,7 @@
   <project name="mikeNG/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-12.1" />
 
   <!--Vendor Repos-->
-  <project path="vendor/bliss" name="TeamBliss-LP/android_vendor_bliss" remote="github" revision="lp5.1" >
+  <project path="vendor/bliss" name="Oi-Android/android_vendor_bliss" remote="Oi-Android" revision="lp5.1" >
       <copyfile src="tools/build.sh" dest="build.sh" />
   </project>
   
