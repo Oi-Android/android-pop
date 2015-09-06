@@ -45,7 +45,7 @@
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="Oi-Android/android_art" remote="Oi-Android" revision="cm-12.1" groups="pdk" />
-  <project path="bionic" name="TeamBliss-LP/android_bionic" groups="pdk" remote="github" revision="lp5.1" />
+  <project path="bionic" name="Oi-Android/android_bionic" groups="pdk" remote="Oi-Android" revision="lp5.1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" />
