@@ -638,7 +638,7 @@
   
   <!--Additional Repos-->
   <project path="external/jemalloc" name="arter97/android_external_jemalloc" remote="github" revision="android-5.1" />
-  <project path="device/xiaomi/ferrari" name="Oi-Android/android_device_xiaomi_ferrari" remote="Oi-Android" revision="cm-12.1" />
+  <project path="device/xiaomi/ferrari" name="belalang-tempur/android_device_xiaomi_ferrari" remote="github" revision="cm-12.1" />
   <project name="frap129/x86_64-linux-glibc-2.20-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.20-4.8" remote="github" revision="master" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
 
